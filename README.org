@@ -1,0 +1,5 @@
+#+TITLE: Zennの連携用リポジトリ
+#+AUTHER: Masanao Igarashi
+#+LANGUAGE: ja
+
+* https://zenn.dev/msnoigrs/ Zennの連携用リポジトリ

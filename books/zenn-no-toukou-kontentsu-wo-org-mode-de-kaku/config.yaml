@@ -1,0 +1,17 @@
+title: "Zennの投稿コンテンツをOrg Modeで書く"
+summary: "Zennで公開する文書をemacsのOrg modeで書きたい人に向けに、ox-yazennの利用方法を書きました。"
+topics: ["orgmode", "emacs"]
+published: true
+price: 0
+chapters:
+  - hajimeni
+  - kontentsu-koukai-madeno-sagyou-furoo
+  - ox-yazenn-no-tsukaikata-no-gaiyou
+  - ox-yazenn-no-nabigeeshonmenyuu
+  - kiji-wo-kaku
+  - hon-wo-kaku
+  - org-mode-kihou-to-markdown-hyougen
+  - org-publish-wo-riyou-shite-henkan-suru
+  - kakihajime-rutokino-jidou-sounyuu
+  - slug-nitsuite
+  - saigoni

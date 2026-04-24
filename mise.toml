@@ -1,0 +1,8 @@
+[tools]
+node = "24"
+"npm:zenn-cli" = "latest"
+
+[env]
+npm_config_prefix = '{{config_root}}\\.npm-global'
+npm_config_cache = '{{config_root}}\\.npm-cache'
+_.path = '{{config_root}}\\.npm-global'
