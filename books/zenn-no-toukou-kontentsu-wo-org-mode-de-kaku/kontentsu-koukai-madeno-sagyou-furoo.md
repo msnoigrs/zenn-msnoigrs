@@ -32,7 +32,7 @@ stateDiagram-v2
 ```mermaid
 stateDiagram-v2
   edit --> translate
-  preview --> translate
+  preview --> edit
   translate --> preview
   translate --> commit
   commit --> push

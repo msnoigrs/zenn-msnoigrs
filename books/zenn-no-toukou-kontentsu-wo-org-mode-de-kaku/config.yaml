@@ -4,14 +4,14 @@ topics: ["orgmode", "emacs"]
 published: true
 price: 0
 chapters:
-  - hajimeni
+  - hajimeni____
   - kontentsu-koukai-madeno-sagyou-furoo
   - ox-yazenn-no-tsukaikata-no-gaiyou
   - ox-yazenn-no-nabigeeshonmenyuu
   - kiji-wo-kaku
-  - hon-wo-kaku
+  - hon-wo-kaku_
   - org-mode-kihou-to-markdown-hyougen
   - org-publish-wo-riyou-shite-henkan-suru
   - kakihajime-rutokino-jidou-sounyuu
   - slug-nitsuite
-  - saigoni
+  - saigoni_____
